@@ -23,7 +23,7 @@ body{
 .delivery{
     margin-top: 20px;
     display: grid;
-    grid-template-columms: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     gap: 2em;
 }
 .delivery_container{
